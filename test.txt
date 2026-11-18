@@ -1,0 +1,10 @@
+LeThread 7 a écrit ici
+LeThread 1 a écrit ici
+LeThread 5 a écrit ici
+LeThread 6 a écrit ici
+LeThread 2 a écrit ici
+LeThread 9 a écrit ici
+LeThread 0 a écrit ici
+LeThread 3 a écrit ici
+LeThread 4 a écrit ici
+LeThread 8 a écrit ici
